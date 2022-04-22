@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ps-flux/static/css/main.6a4612b0.css",
+    "main.js": "/ps-flux/static/js/main.dc2a2ea6.js",
+    "index.html": "/ps-flux/index.html",
+    "main.6a4612b0.css.map": "/ps-flux/static/css/main.6a4612b0.css.map",
+    "main.dc2a2ea6.js.map": "/ps-flux/static/js/main.dc2a2ea6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6a4612b0.css",
+    "static/js/main.dc2a2ea6.js"
+  ]
+}
